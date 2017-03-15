@@ -1,0 +1,28 @@
+object(SimpleXMLElement)#8 (13) {
+  ["LocalUnread"]=>
+  string(2) "12"
+  ["LocalInbox"]=>
+  string(2) "15"
+  ["LocalOutbox"]=>
+  string(1) "1"
+  ["LocalDraft"]=>
+  string(1) "0"
+  ["LocalDeleted"]=>
+  string(1) "0"
+  ["SimUnread"]=>
+  string(1) "0"
+  ["SimInbox"]=>
+  string(1) "0"
+  ["SimOutbox"]=>
+  string(1) "0"
+  ["SimDraft"]=>
+  string(1) "0"
+  ["LocalMax"]=>
+  string(3) "500"
+  ["SimMax"]=>
+  string(2) "15"
+  ["SimUsed"]=>
+  string(1) "0"
+  ["NewMsg"]=>
+  string(1) "0"
+}

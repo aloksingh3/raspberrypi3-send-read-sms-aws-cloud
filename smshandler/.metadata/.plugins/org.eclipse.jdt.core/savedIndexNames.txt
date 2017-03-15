@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+D:\work\PiDay\sms.callback\.metadata\.plugins\org.eclipse.jdt.core
